@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&family=Cormorant+Garamond&family=Cormorant+SC&family=Dancing+Script:wght@700&family=Montserrat&family=Playfair+Display:ital@1&family=Roboto:ital,wght@1,100&display=swap");
+h3 {
+  font-family: Montserrat;
+  font-weight: bold;
+  color: green;
+}
+h4 {
+  font-family: Montserrat;
+  font-weight: bold;
+  color: green;
+}
+
+h5 {
+  font-family: Dancing;
+  color: green;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.logo {
+  height: 250px;
+  width: 200px;
+}
+
+img {
+  height: 250px;
+  width: auto;
+}
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  border: 3px solid rgb(182, 226, 182);
+  height: 40px;
+  align-items: center;
+  background-color: rgb(226, 250, 226);
+}
+.navbar {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+.a href {
+  color: blueviolet;
+}
+.footer {
+  background-color: rgb(205, 255, 205);
+  height: 30px;
+  transition-duration: 2s;
+}
+b:hover {
+  color: black;
+}
+b {
+  font-family: Dancing;
+  color: green;
+  font-style: italic;
+  font-weight: bold;
+}
+a {
+  font-family: display;
+  color: green;
+}
+p:hover {
+  color: green;
+}
+h3:hover {
+  color: black;
+}
